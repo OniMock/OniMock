@@ -21,7 +21,7 @@
 **Languages and Tools:**
 
 <p>
-  <code><img width="10%"src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"style="background-color: white;"></code>
+  <code><img width="10%"src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"style="background-color: #ffffff;"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" style="background-color: white;"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/brave/brave-ar21.svg" style="background-color: white;"></code>
   <br/>
@@ -65,18 +65,18 @@
             <td align="center"><img alt="Bitcoin" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/bitcoin_logo.svg"/>
             </td>
             <td><font size="3">Bitcoin</font></td>
-            <td><code>bc1qaem3g7gkxk2yghx4tv2w3ujq5pesq32dcpczns</code></td>
+            <td><code>bc1p24ya6frpr053dhnhsw8mx46kmecxv4s64udecxc5lrk9qcssgxssf6zkpw</code></td>
         </tr>
          <tr>
             <td align="center"><img alt="Solana" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/solana_logo.svg"/>
             </td>
             <td><font size="3">Solana</font></td>
-            <td><code>FTbC9E9RC8VnzxadC3rFqsk5opZAM3ZYoAT31hNYrabE</code></td>
+            <td><code>EMzhyAkJkV4jM8N99A7xJt8vUEcLxcoGT1ukjYXb8NVa</code></td>
          </tr>
          <tr>
             <td align="center" style="width: 20px;"><img alt="Ethereum" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/binance_logo.svg"/><img alt="Solana" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/ethereum_logo.svg"/><img alt="Polygon" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/polygon_logo.svg"/><img alt="Fantom" src="https://raw.githubusercontent.com/OniMock/.github/main/.resources/fantom_logo.svg"/>
             </td>
-            <td style="width: 2px;"><font size="2">Binance, Ethereum, Polygon, Fantom</font></td>
+            <td style="width: 2px;"><font size="2">Binance, Ethereum, Polygon, Fantom ou outra EVM</font></td>
             <td><code>0xE7402cB0191D1C27c9EA0DB14FE62Db2F183bbDe</code></td>
         </tr>
     </tbody>
